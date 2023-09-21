@@ -343,7 +343,8 @@ else if(!col2)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Uploading image.png…]()
+ ![image](https://github.com/harini1006/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/113497405/007c0b8e-b25e-4db6-a7c6-770995ea44b2)
+
 
  
  
